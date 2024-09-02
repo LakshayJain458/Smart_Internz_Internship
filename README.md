@@ -76,17 +76,10 @@ To run this project locally, follow these steps:
 - **Data Management**: Perform CRUD operations on the available data entities.
 - **API Usage**: Explore additional features through third-party API integrations.
 
-## Project Structure
+##Documentation
 
-- `src/` : Contains all the source code for the project.
-  - `components/` : Reusable UI components.
-  - `pages/` : Different pages/routes of the application.
-  - `services/` : API service functions.
-  - `utils/` : Utility functions and helpers.
-
-## Screenshots
-
-_Include screenshots or GIFs showcasing the project features. (Optional)_
+-- Refer this for Output screenshots and Project documentation:
+-- Link :- https://docs.google.com/document/d/1X1CAv8TuB_i0i_z5uAOGM4uWj_BFwzLzsf0X8FVYxlQ/edit?usp=sharing
 
 ## Contributing
 
@@ -95,11 +88,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact Information
-
-For any queries or further information, you can contact me at:
-
-- **Name**: Lakshay Jain
-- **Email**: [lakshay.jain@example.com](mailto:lakshay.jain@example.com)
-- **LinkedIn**: [Lakshay Jain](https://www.linkedin.com/in/lakshay-jain/)
