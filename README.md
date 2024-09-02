@@ -9,11 +9,9 @@
 - [Technology Stack](#technology-stack)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
+- [Documentation](#Documentaton)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact Information](#contact-information)
 
 ## Project Overview
 
