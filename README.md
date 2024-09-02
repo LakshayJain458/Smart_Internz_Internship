@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 ##Documentation
 
 -- Refer this for Output screenshots and Project documentation:
--- Link :- https://docs.google.com/document/d/1X1CAv8TuB_i0i_z5uAOGM4uWj_BFwzLzsf0X8FVYxlQ/edit?usp=sharing
+-- Link :- https://workdrive.zohoexternal.com/writer/open/nsxe44dbab067392c4b2ab2b179d3d0419af8?authId=%7B%22linkId%22%3A%225k2wApayW1K-LYmlU%22%7D
 
 ## Contributing
 
